@@ -11,3 +11,7 @@ Finally, it's **not very expensive**.
 1. My house
 2. China Wok
 3. Bo Bo China
+
+* Fried Rice
+* Steamed Rice
+* Lo Mein Noodles
