@@ -12,3 +12,11 @@ The table below shows a list of actors who I think would be good in the main rol
 | Lin-Manuel Miranda | Musical genius | 45 |
 | Amy Adams | Humor | 50 |
 | Judy Garland | Beautiful voice | Deceased |
+
+---
+# Favorite Quotes
+
+> The saints did not all begin well, but they ended well.
+*St. John Vianney*
+> Be who God meant you to be and you will set the world on fire!
+*St. Catherine of Siena*
