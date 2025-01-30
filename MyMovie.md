@@ -17,8 +17,6 @@ The table below shows a list of actors who I think would be good in the main rol
 # Favorite Quotes
 
 > The saints did not all begin well, but they ended well.
->
-*St. John Vianney*
+> *St. John Vianney*
 > Be who God meant you to be and you will set the world on fire!
->
-*St. Catherine of Siena*
+> *St. Catherine of Siena*
