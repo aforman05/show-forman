@@ -21,3 +21,33 @@ The table below shows a list of actors who I think would be good in the main rol
 
 > Be who God meant you to be and you will set the world on fire!
 > *St. Catherine of Siena*
+
+---
+# Code Snippet
+
+Creates an abstract base class to test if objects adhere to given specifications.
+```
+from abc import ABCMeta, abstractmethod
+
+
+class BaseClass(metaclass=ABCMeta):
+    @abstractmethod
+    def foo(self):
+        pass
+
+    @abstractmethod
+    def bar(self):
+        pass
+
+
+class ConcreteClass(BaseClass):
+    def foo(self):
+        pass
+
+    def bar(self):
+        pass
+
+
+instance = ConcreteClass()
+```
+[Link to code snippet](https://code.pieces.app/collections/python)
